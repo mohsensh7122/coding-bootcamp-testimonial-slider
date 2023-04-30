@@ -110,6 +110,10 @@ main {
   align-items: center;
 }
 
+#prev-btn, #next-btn {
+  cursor: pointer;
+}
+
 .pattern-bg {
   width: 320px;
   position: absolute;
